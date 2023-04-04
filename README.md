@@ -46,6 +46,13 @@ How to reach me: I use telegram so you can connect with me here <a href="https:/
 
 ---
 
+### Few examples
+
+- Notter: to save notes <a href="https://notter.vercel.app/" target="_blank">Notter</a>
+- JS Calculator without eval(), has keyboard support. <a href="https://rem-calculator.vercel.app/" target="_blank">Calculator</a>
+
+---
+
 ### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jumpinlord&theme=dark&background=263147)](https://git.io/streak-stats)
