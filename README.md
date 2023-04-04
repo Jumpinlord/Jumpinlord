@@ -22,17 +22,17 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
 I’m studying to become a frontend developer and build beautiful web applications.
 
-n my free time, I watch various educational videos and read articles.
+In my free time, I watch various educational videos and read articles.
 
 How to reach me: I use telegram so you can connect with me here <a href="https://t.me/remvue">Remzi M.</a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### I use these Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -46,7 +46,7 @@ How to reach me: I use telegram so you can connect with me here <a href="https:/
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jumpinlord&theme=dark&background=263147)](https://git.io/streak-stats)
 
