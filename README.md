@@ -24,11 +24,11 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m studying to become a frontend developer and build beautiful web applications.
+I’m studying to become a frontend developer and build beautiful web applications.
 
-- :zap: In my free time, I watch various educational videos and read articles.
+n my free time, I watch various educational videos and read articles.
 
-- :mailbox: How to reach me: I'm in telegram <a href="https://t.me/remvue">Remzi M.</a>
+How to reach me: I use telegram so you can connect with me here <a href="https://t.me/remvue">Remzi M.</a>
 
 ---
 
