@@ -53,8 +53,20 @@ I use telegram so you can connect with me here
 
 ### Few examples
 
-- Notter: to save notes <a href="https://notter.vercel.app/" target="_blank">Notter</a>
-- JS Calculator without eval(), has keyboard support. <a href="https://rem-calculator.vercel.app/" target="_blank">Calculator</a>
+JS Calculator without eval(), has keyboard support.
+
+
+<a href="https://rem-calculator.vercel.app/">
+  <img src="https://i.imgur.com/DJ3TDNE.png" alt="js_calculator">
+</a>
+
+Notter to save my notes
+
+
+<a href="https://notter.vercel.app/">
+  <img src="https://i.imgur.com/pg6EQM0.png" alt="notter to save notes">
+</a>
+
 
 ---
 
