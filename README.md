@@ -3,12 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/Jumpinglord">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Jumpinlord&style=flat-square&color=blueviolet" alt=""/>
   <h1>
     Hi, I'm Remzi
@@ -28,9 +26,12 @@ I’m studying to become a frontend developer and build beautiful web applicatio
 
 In my free time, I watch various educational videos and read articles.
 
-I use telegram so you can connect with me here 
+I use telegram and twitter so you can connect with me here 
 <a href="https://t.me/remvue">
-  <img alt="remzi_m" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png">
+  <img src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" alt="remzi_m" width="22px" />
+</a>
+<a href="https://twitter.com/Jumpinglord">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-icons-16/512/Twitter-256.png" alt="remzi_m" width="22px" />
 </a>
 
 
