@@ -28,7 +28,12 @@ I’m studying to become a frontend developer and build beautiful web applicatio
 
 In my free time, I watch various educational videos and read articles.
 
-How to reach me: I use telegram so you can connect with me here <a href="https://t.me/remvue">Remzi M.</a>
+I use telegram so you can connect with me here 
+<a href="https://t.me/remvue">
+  <img alt="remzi_m" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png">
+</a>
+
+
 
 ---
 
