@@ -61,8 +61,15 @@ JS Calculator without eval(), has keyboard support.
   <img src="https://i.imgur.com/DJ3TDNE.png" alt="js_calculator">
 </a>
 
-Notter to save my notes
 
+Tailwindcss is so good 🌊.
+
+<a href="https://eatly-zeta.vercel.app/">
+  <img src="https://i.imgur.com/nxkyzMS.png" alt="eatly: hero section example">
+</a>
+
+
+Notter to save my notes
 
 <a href="https://notter.vercel.app/">
   <img src="https://i.imgur.com/pg6EQM0.png" alt="notter to save notes">
