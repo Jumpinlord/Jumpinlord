@@ -24,7 +24,7 @@
 
 I’m studying to become a frontend developer and build beautiful web applications.
 
-In my free time, I watch various educational videos and read articles.
+In my free time I watch various educational videos and read articles.
 
 I use telegram and twitter so you can connect with me here 
 <a href="https://t.me/remvue">
